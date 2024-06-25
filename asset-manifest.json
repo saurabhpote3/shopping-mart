@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/shopping-mart/static/css/main.c294d720.css",
+    "main.js": "/shopping-mart/static/js/main.3a28ef20.js",
+    "static/js/453.56709413.chunk.js": "/shopping-mart/static/js/453.56709413.chunk.js",
+    "static/media/shopping-cart-filled-with-coins-copy-space-background.jpg": "/shopping-mart/static/media/shopping-cart-filled-with-coins-copy-space-background.1fc9ff53cf4fcf598ddc.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/shopping-mart/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/shopping-mart/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/shopping-mart/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/shopping-mart/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/shopping-mart/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/shopping-mart/index.html",
+    "main.c294d720.css.map": "/shopping-mart/static/css/main.c294d720.css.map",
+    "main.3a28ef20.js.map": "/shopping-mart/static/js/main.3a28ef20.js.map",
+    "453.56709413.chunk.js.map": "/shopping-mart/static/js/453.56709413.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c294d720.css",
+    "static/js/main.3a28ef20.js"
+  ]
+}
